@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\bin\Debug\netcoreapp3.1\FrogRiverOne.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\bin\Debug\netcoreapp3.1\FrogRiverOne.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\bin\Debug\netcoreapp3.1\FrogRiverOne.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\bin\Debug\netcoreapp3.1\FrogRiverOne.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\bin\Debug\netcoreapp3.1\FrogRiverOne.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\bin\Debug\netcoreapp3.1\FrogRiverOne.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogRiverOne\FrogRiverOne\obj\Debug\netcoreapp3.1\FrogRiverOne.genruntimeconfig.cache

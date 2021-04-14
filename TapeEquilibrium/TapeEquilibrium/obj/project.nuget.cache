@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGmWR2f3JVMWRQtRC0CyHIUopFDSOeCrWIo72pAsW7SOj850xz+fqRVZ/47ZRhcMVnTIyBt4tZjLipubvcXtyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.dejesus\\Desktop\\Pessoal\\Challenges\\TapeEquilibrium\\TapeEquilibrium\\TapeEquilibrium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.dejesus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bruno.dejesus\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\bruno.dejesus\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\bruno.dejesus\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

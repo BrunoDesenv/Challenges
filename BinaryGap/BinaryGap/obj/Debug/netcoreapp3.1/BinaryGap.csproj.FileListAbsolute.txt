@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Study\BinaryGap\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.genruntimeconfig.cache

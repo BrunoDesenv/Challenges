@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp3.1\OddOccurrencesInArray.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp3.1\OddOccurrencesInArray.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp3.1\OddOccurrencesInArray.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp3.1\OddOccurrencesInArray.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp3.1\OddOccurrencesInArray.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp3.1\OddOccurrencesInArray.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp3.1\OddOccurrencesInArray.genruntimeconfig.cache

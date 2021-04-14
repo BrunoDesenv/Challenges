@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp3.1\PermMissingElem.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp3.1\PermMissingElem.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp3.1\PermMissingElem.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp3.1\PermMissingElem.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp3.1\PermMissingElem.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp3.1\PermMissingElem.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp3.1\PermMissingElem.genruntimeconfig.cache

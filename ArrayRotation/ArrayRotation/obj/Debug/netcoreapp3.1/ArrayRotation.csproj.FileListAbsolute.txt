@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\ArrayRotation\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.genruntimeconfig.cache

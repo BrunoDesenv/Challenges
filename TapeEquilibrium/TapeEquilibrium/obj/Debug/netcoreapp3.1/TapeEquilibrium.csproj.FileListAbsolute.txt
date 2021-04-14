@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.genruntimeconfig.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.csproj.CoreCompileInputs.cache

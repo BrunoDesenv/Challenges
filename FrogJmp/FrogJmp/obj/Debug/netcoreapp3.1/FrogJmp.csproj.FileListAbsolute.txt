@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Challenges\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.genruntimeconfig.cache
