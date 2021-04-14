@@ -6,9 +6,13 @@ Given differente pricing options for each product, determine how many options ou
 Example
 
 priceOfJean = [2, 3]
+
 priceOfShoes = [4]
+
 priceOfskirts = [2, 3]
+
 priceofTops = [1, 2]
+
 budgeted = 10
 
 The customer must buy shoes for 4 dollars since there is only one option.
